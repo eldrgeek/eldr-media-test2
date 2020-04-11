@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+video {
+  border: 1px solid black;
+  width: 200px;
+}
